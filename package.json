@@ -1,0 +1,20 @@
+{
+  "name": "prelo-mcp",
+  "version": "1.0.0",
+  "description": "MCP server para o Prelo — agregador de lançamentos literários brasileiros",
+  "private": true,
+  "scripts": {
+    "dev": "ts-node api/mcp.ts",
+    "build": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "@supabase/supabase-js": "^2.50.0",
+    "@vercel/node": "^5.1.7",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.0"
+  }
+}
