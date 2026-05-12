@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "ts-node api/mcp.ts",
-    "build": "tsc --noEmit"
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.0",
