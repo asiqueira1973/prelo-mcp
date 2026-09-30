@@ -1,6 +1,6 @@
 # Prelo MCP Server
 
-MCP server público para o [Prelo](https://prelo.com.br) — agregador de lançamentos literários brasileiros.
+MCP server público para o [Prelo](https://prelo.art.br) — agregador de lançamentos literários brasileiros.
 
 ## Ferramenta disponível
 
