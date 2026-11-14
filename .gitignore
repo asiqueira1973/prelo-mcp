@@ -4,3 +4,17 @@ dist/
 .vercel/
 .vercel
 .DS_Store
+
+# --- Segredos e credenciais (nunca versionar) ---
+.env.*
+GoogleService-Info.plist
+google-services.json
+*.p8
+*.p12
+*.mobileprovision
+*.keystore
+*.jks
+key.properties
+local.properties
+secrets/
+!.env.example
